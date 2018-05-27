@@ -52,7 +52,7 @@ b.max-bold{ font-weight: 700; }
 
 
 /* ---------------------------------
-2. COMMONS FOR PAGE DESIGN
+2. DESIGN
 --------------------------------- */
 
 .section{ padding: 100px 0 50px; }
@@ -129,7 +129,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 
 
 /* ---------------------------------
-5. PORFOLIO 
+5. PORTFOLIO 
 --------------------------------- */
 
 .portfolio-section{ padding-bottom: 0; }
@@ -196,8 +196,8 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 	
 	
 /* ---------------------------------
-9. COUNTER SECTION
---------------------------------- */
+9. contador SECTION
+--------------------------------- 
 
 .counter-section{ position: relative; padding: 100px 0 70px; background-size: cover; z-index: 1; 
 	background-image: url(../../images/slider-2-1920x600.jpg); color: #fff; }
@@ -210,9 +210,10 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 .counter .title{ text-align: right; margin-right: 130px; }
 
 .counter .desc{ position: absolute; bottom: 4px; right: 0px; width: 110px; }
+*/
 
 
-/* RADIAL PREOGRESS SECTION */
+/* RADIAL  SECTION */
 
 
 .radial-progress{ position: relative; max-width: 200px; margin: 0 auto; }
